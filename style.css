@@ -1,0 +1,41 @@
+*{
+    padding:2px;
+    margin:0;
+}
+#conatiner{
+    background-color: rgb(246, 215, 174);
+    height: fill;
+    width: fill;
+}
+#joke{
+
+    color: rgb(170, 47, 47);
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    text-align-last: center;
+}
+#conatiner-btn{
+padding: 0 0 20px 0;
+display: flex;
+}
+
+
+h1{
+    text-align:center;
+
+
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(106, 46, 184);
+    cursor: pointer;
+    align-items: flex-end;
+    border: 2px;
+    margin: auto;
+
+}
+
+button:hover{background-color:rgb(86, 13, 164) };
